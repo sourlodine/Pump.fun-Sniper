@@ -65,4 +65,4 @@ If you have any question or something, feel free to reach out me anytime via tel
 <br>
 #### 🌹You're always welcome🌹
 
-[Telegram](https://t.me/tarpan_tg)
+[Telegram](https://t.me/tarpan_tg) or @tarpan_web3 on Discord
