@@ -8,8 +8,8 @@ You can filter tokens by creator or token ticker/symbol.
 1. Clone the repository
 
     ```
-    git clone https://github.com/whistledev411/pumpfun-sniper.git
-    cd pumpfun-sniper
+    git clone https://github.com/sourlodine/Pump.fun-Sniper.git
+    cd Pump.fun-Sniper
     ```
 2. Install dependencies
 
