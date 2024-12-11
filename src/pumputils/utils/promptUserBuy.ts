@@ -1,5 +1,6 @@
 import * as web3 from "@solana/web3.js";
 import inquirer from "inquirer";
+
 async function promptUserBuy() {
   // Load token
   let tokenAddress: web3.PublicKey;

@@ -1,5 +1,5 @@
 {
-  "name": "pumpfun sniper bot",
+  "name": "pumpfun-sniper",
   "version": "1.0.0",
   "description": "Pumpfun sniper that can snipe tokens by dev wallet or ticker...",
   "main": "src/index.ts",
@@ -7,7 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node src/index.ts"
   },
-  "keywords": ["pumpfun", "pumpfun sniper", "trading bot", "pumpdotfun", "pumpdotfun bot"],
+  "keywords": [
+    "pumpfun",
+    "pumpfun sniper",
+    "trading bot",
+    "pumpdotfun",
+    "pumpdotfun bot"
+  ],
   "author": "Whistle",
   "license": "ISC",
   "dependencies": {
