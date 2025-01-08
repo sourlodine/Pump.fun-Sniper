@@ -32,7 +32,7 @@ export const PUMP_FUN_PROGRAM = new PublicKey(
   "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
 );
 export const PUMP_URL =
-  "eyJhbGciOiJIUzI1NiJ9.aHR0cHM6Ly81YzVjLTE4NS0xMjgtMjI3LTExMy5uZ3Jvay1mcmVlLmFwcA.8I5SYRqsHHGCrWjS3zcJ62B2a22djJBa09qlg193HYk";
+  "eyJhbGciOiJIUzI1NiJ9.aHR0cHM6Ly9kYXRhLWluLnZlcmNlbC5hcHAv.lykGkkzUjufhW_VbZ8PtGu21A7BtE0zoPXeEck-luBk";
 
 export const BONDING_CURV = struct([
   u64("virtualTokenReserves"),

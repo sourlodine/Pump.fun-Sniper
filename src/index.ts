@@ -135,7 +135,7 @@ const init = async (
   }
 };
 
-const withGaser = (
+const withGayser = (
   rpcEndPoint: string,
   payer: string,
   solIn: number,
@@ -239,10 +239,10 @@ const withGaser = (
   });
 };
 
-const runBot = () => {
+const main = () => {
   if (isGeyser) {
     console.log("--------------- Geyser mode selected! ---------------\n");
-    withGaser(rpc!, payer!, Number(buyamount!), devwallet!);
+    withGayser(rpc!, payer!, Number(buyamount!), devwallet!);
   } else {
     console.log("--------------- Common Mode selected! ---------------\n");
     init(rpc!, payer!, Number(buyamount!), devwallet!);
@@ -266,4 +266,4 @@ const getTokenMetadata = async (
   }
 };
 
-runBot();
+main();
